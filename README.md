@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Wilmar 😃.
+I make stuff sometimes.
+More information below.
+
+[<img src="https://i.imgur.com/BF0W9gy.png" alt="LinkedIn" title="LinkedIn" width="35px"/>](https://www.linkedin.com/in/wilmar-jongkind-b17094181/)
 <!--
 **wilmarjongkind/wilmarjongkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
