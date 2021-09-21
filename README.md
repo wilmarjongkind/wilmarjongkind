@@ -1,5 +1,8 @@
-### Hi there 👋🏻
+[![Wilmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmarjongkind&include_all_commits=true&count_private=true&theme=dark&show_icons=true&hide=contribs,prs,stars,issues)]()
 
+[![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=wilmarjongkind&repo=wilmarjongkind&theme=dark)]()
+
+### Hi there 👋🏻
 I'm Wilmar 😎.\
 I make stuff sometimes.\
 More information below.
