@@ -5,6 +5,7 @@
 I'm Wilmar 😎.\
 I make stuff for the entire stack.\
 More information below.
+<img src="https://i.giphy.com/media/ckMkDR1SKAr7v8AaN4/giphy.webp" width="80" style="float: right; margin-right: 350px">
 
 <hr>
 
@@ -14,7 +15,6 @@ More information below.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 
 <hr>
 
