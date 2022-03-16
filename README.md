@@ -4,21 +4,13 @@
 ### Hey!
 
 I'm Wilmar 😎.\
-I make stuff for the entire stack.\
-More information below.
+I like making stuff for the entire stack.
 
-<hr>
+### Technologies I work with.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,typescript,tailwind,angular,react&theme=dark)](https://skillicons.dev)
 
-<hr>
-
-#### Connect with me
+##### Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wilmar-jongkind-b17094181/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:wilmarjongkind@gmail.com)
