@@ -8,7 +8,7 @@ I like making stuff for the entire stack.
 
 ### Technologies I work with.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,net,typescript,tailwind,angular,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,typescript,tailwind,angular,react,azure&theme=dark)](https://skillicons.dev)
 
 ##### Connect with me
 
